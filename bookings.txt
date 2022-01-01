@@ -1,0 +1,15 @@
+James, Sydney, 2, None, 0, 01/09/2020 10:10:00
+Lily, Adelaide, 1, S6, 0, 05/09/2020 14:00:00
+M3, Sydney, 4, Internet, 0.1, 12/10/2020 09:05:00
+Harry, D4, 2, Business, 0.125, 20/12/2020 15:20:00
+Tom, Sydney, 2, Internet, 0.1, 04/01/2021 20:00:00
+C8, Geelong, 1, None, 0, 25/01/20201 20:00:00
+Sarah, Adelaide, 2, StarterPlus, 0.15, 01/03/2021. 09:45:00
+Wilson, Sydney, 2, Entertainment, 0.10, 20/05/2021 16:30:00
+James, Lahore, 1, Internet, 0, 123455 5 43 56 
+Harry, D3, 1, Internet, 12.5, 23523233
+NewOne, Sydney, 4, none, 0, 24524k2n52:32523 
+Annie, Sydney, 1, Internet, 0, 4/4/4 
+Adam, D3, 1, none, 0, 5242 253123 
+Adam, Lahore, 1, none, 0, 43523552353 
+Sarah, Geelong, 1, none, 15.0, 5432 523 52532 

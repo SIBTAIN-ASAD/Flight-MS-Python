@@ -1,0 +1,11 @@
+S1, Internet, 0
+S2, Entertainment, 5
+S3, SeatSelection, 5
+S4, TripCancellation, 10
+S5, LoungueAccess, 10
+S6, Snack, 10
+S7, Drink, 5
+B8, StarterMax, S1, S2, S3, S4
+B9, StarterPlus, S3, S6, S7
+B10, Business, S2, S5, S1, S6, S7
+B11, Starter, S3, S4

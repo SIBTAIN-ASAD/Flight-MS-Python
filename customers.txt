@@ -1,0 +1,17 @@
+C1, James, 0, 100
+C2, Lily, 0, 30
+M3, Tom, 0.1, 500
+V5, Harry, 0.125, 1000
+C8, Annie, 0, 60
+V10, Sarah, 0.15, 2000
+M11, Wilson, 0.10, 300
+V1, SAM, 0.08, 660
+V3, John, 0.30, 5000
+V8, NewDude, 17.0, 6100
+C8, adam, 0, 34556
+C5, Adam, 0, 6433
+C4, Ali, 0, 34
+C7, Ahmed, 0, 34
+C9, NewOne, 0, 343
+C9, John Smith, 0, 543
+M3, FinalOne, 17.0, 100
